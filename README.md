@@ -3,11 +3,11 @@
 
 - 🚀 Je travaille actuellement sur un projet d'authentification — Une application avec gestion d’utilisateurs et sécurité renforcée (README disponible, code en cours de développement). [Backend-Authentification](https://github.com/Sweetyamnesia/Backend-Authentification)
 
-- 📚 J’apprends en ce moment grâce à des ressources comme **Des tutoriels et formations en ligne, des newsletters, des articles et vidéos partagées par la communauté tech.**
-
 - 🚀 Un projet de géolocalisation météo — Une application qui affiche la météo en fonction de la localisation de l'utilisateur (README prêt, développement à venir). [Backend-Golocalisation-Meteo](https://github.com/Sweetyamnesia/Backend-Geolocalisation-Meteo)
 
 - 🚀 Un projet e-commerce — Un site web pour la gestion de produits, paniers, et commandes (README disponible, début du code prévu prochainement). [Backend-Ecommerce](https://github.com/Sweetyamnesia/Backend-Ecommerce)
+
+- 📚 J’apprends en ce moment grâce à des ressources comme **Des tutoriels et formations en ligne, des newsletters, des articles et vidéos partagées par la communauté tech.**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://bit.ly/3BeLwb4](https://bit.ly/3BeLwb4)
 
