@@ -1,11 +1,14 @@
 <h1 align="center">Bonjour 👋, je m'appelle Angela</h1>
 <h3 align="center">Curieuse par nature, développeuse en devenir.</h3>
 
-- 🚀 Je travaille actuellement sur un projet d'authentification — Une application avec gestion d’utilisateurs et sécurité renforcée (README disponible, code en cours de développement). [Backend-Authentification](https://github.com/Sweetyamnesia/Backend-Authentification)
+Je travaille actuellement sur différents projets : 
+- 🚀 Mon projet professionnel - Une application permettant d'accompagner les thérapeutes s'occupant de personnes âgées (README disponible, code en cours de développement). [Mon-Projet](https://github.com/Sweetyamnesia/Mon-Projet)
+ 
+- 🚀 Un projet d'authentification — Une application avec gestion d’utilisateurs et sécurité renforcée (README disponible, code en cours, projet non terminé car problèmes). [Backend-Authentification](https://github.com/Sweetyamnesia/Backend-Authentification)
 
-- 🚀 Un projet de géolocalisation météo — Une application qui affiche la météo en fonction de la localisation de l'utilisateur (README prêt, développement à venir). [Backend-Golocalisation-Meteo](https://github.com/Sweetyamnesia/Backend-Geolocalisation-Meteo)
-
-- 🚀 Un projet e-commerce — Un site web pour la gestion de produits, paniers, et commandes (README disponible, début du code prévu prochainement). [Backend-Ecommerce](https://github.com/Sweetyamnesia/Backend-Ecommerce)
+- 🚀 Un projet de géolocalisation météo — Une application qui affiche la météo en fonction de la localisation de l'utilisateur (README prêt, développement à venir). [Backend-Géolocalisation-Meteo](https://github.com/Sweetyamnesia/Backend-Geolocalisation-Meteo)
+ 
+- 🚀 Un projet e-commerce — Un site web pour la gestion de produits, paniers, et commandes (README disponible, code prévu prochainement). [Backend-Ecommerce](https://github.com/Sweetyamnesia/Backend-Ecommerce)
 
 - 📚 J’apprends en ce moment grâce à des ressources comme **Des tutoriels et formations en ligne, des newsletters, des articles et vidéos partagées par la communauté tech.**
 
