@@ -5,50 +5,77 @@
 
 ## 💡 À propos de moi
 
-Issue d’un parcours mêlant **numérique, pédagogie et médiation**, je me suis orientée vers le développement informatique avec un fort intérêt pour les technologies immersives.
+Issue d’un parcours mêlant **numérique, pédagogie et médiation**, je me suis orientée vers le développement informatique avec un intérêt particulier pour les **technologies immersives et les interactions utilisateur**.
 
-J’ai suivi la formation **Holberton School France**, où j’ai acquis des bases solides en **C, Python, JavaScript, React**, ainsi qu’une première expérience en **Unity/VR**.
+J’ai suivi la formation **Holberton School France**, où j’ai développé mes compétences en **C, Python, JavaScript, React**, ainsi qu’une première expérience en **Unity et VR**.
 
-J’ai également travaillé à l’**INRIA**, où j’ai développé ma capacité à collaborer en équipe, à m’adapter rapidement et à évoluer dans un environnement technique exigeant.
+J’ai également travaillé à l’**INRIA**, ce qui m’a permis de développer mon expérience du travail en équipe, mon adaptabilité et ma capacité à évoluer dans un environnement technique exigeant.
 
-Passionnée par la **réalité virtuelle et augmentée**, je conçois des interactions immersives centrées utilisateur et je m’intéresse aux projets où **créativité et technologie** se rencontrent.
-
-Je souhaite aujourd’hui renforcer mes compétences en **XR (Godot, Unity)** et participer à des projets immersifs concrets.
+Aujourd’hui, je m’intéresse particulièrement au développement **XR avec Unity et Godot**, à la conception d'interactions immersives et aux projets qui combinent **technologie, créativité et expérience utilisateur**.
 
 ---
 
-## 🚀 Projets phares
+## 🚀 Projet XR principal
 
-### 1️⃣ [BrainBoostVR](https://github.com/Sweetyamnesia/BrainBoostVR) – Unity, C#, VR
-Mini-jeux immersifs pour stimuler la mémoire. Développement gameplay et interactions XR. *(en cours)*
+### 🧠 [BrainBoostVR](https://github.com/Sweetyamnesia/BrainBoostVR)
 
-### 2️⃣ [HB Shell](https://github.com/Sweetyamnesia/holbertonschool-shell) – C, Unix, Algo
-Interpréteur minimal avec gestion des processus, parsing et signaux.
+**Unity · C# · XR · ASP.NET Core · Firebase · MySQL · Oculus Quest 2**
 
-### 3️⃣ [HBnB](https://github.com/Sweetyamnesia/HBnB) – Python, MVC, API REST
-Application type Airbnb avec architecture MVC et backend modulable.
+Application VR développée comme projet de portfolio autour d’exercices cognitifs immersifs.
 
-### 4️⃣ [Holberton Web React](https://github.com/Sweetyamnesia/holbertonschool-web_react) – React, JavaScript
-Interface web moderne avec composants modulaires et intégration API REST.
+Le projet combine :
+
+* 🥽 interactions XR et environnement VR
+* 🎮 exercices interactifs
+* 📊 scoring et suivi des sessions
+* 🔐 authentification Firebase
+* 🌐 API REST avec ASP.NET Core
+* 🗄️ persistance des données avec MySQL
+
+👉 **[Voir la présentation du projet](https://sweetyamnesia.github.io/brainboostvr-landing/)**
+
+---
+
+## 📚 Autres projets
+
+### 🐚 [HB Shell](https://github.com/Sweetyamnesia/holbertonschool-shell)
+
+**C · Unix · Algorithms**
+
+Interpréteur de commandes minimal avec gestion des processus, parsing et signaux.
+
+### 🏠 [HBnB](https://github.com/Sweetyamnesia/HBnB)
+
+**Python · MVC · REST API**
+
+Application inspirée d'Airbnb développée autour d'une architecture MVC et d'une API REST.
+
+### ⚛️ [Holberton Web React](https://github.com/Sweetyamnesia/holbertonschool-web_react)
+
+**React · JavaScript · REST API**
+
+Interfaces web utilisant des composants React modulaires et des APIs REST.
 
 ---
 
 ## 💻 Technologies
 
-- **Langages :** C, Python, JavaScript, HTML/CSS  
-- **XR :** Unity (projets), Godot  
-- **Tools :** Git, Linux, Agile  
-- **Frameworks :** React, APIs REST  
+* **Langages :** C, Python, JavaScript, HTML/CSS
+* **XR :** Unity, Godot
+* **Frameworks :** React, ASP.NET Core
+* **Backend :** REST APIs, MySQL, Firebase
+* **Tools :** Git, GitHub, Linux, Postman
 
 ---
 
-## 🌟 Soft Skills
+## 🌟 Compétences
 
-- Autonomie  
-- Curiosité  
-- Pédagogie  
-- Esprit d’équipe  
-- Adaptabilité  
+* Autonomie
+* Curiosité technique
+* Pédagogie
+* Esprit d’équipe
+* Adaptabilité
+* Conception centrée utilisateur
 
 ---
 
