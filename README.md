@@ -1,84 +1,96 @@
-<h1 align="center">Angela Rhin 👋</h1>
-<h3 align="center">Développeuse XR – expériences immersives & interaction utilisateur</h3>
+# Bonjour, moi c'est Angela 👋
+
+### Développeuse XR junior · Réalité virtuelle & augmentée · Unity · Godot · C#
+
+Je m'intéresse à la conception et au développement d'expériences immersives en réalité virtuelle et augmentée. J'aime explorer de nouvelles technologies, concevoir des interactions 3D et donner vie à des projets qui associent technique, créativité et expérience utilisateur.
+
+Mon parcours associe développement informatique, psychologie, ingénierie pédagogique et médiation numérique. Cette diversité nourrit mon intérêt pour les applications de la XR, notamment dans les domaines de la formation, de l'apprentissage et de la santé.
+
+Après une première expérience professionnelle en développement XR à l'INRIA, je continue à consolider mes compétences à travers des projets personnels et de l'autoformation.
 
 ---
 
-## 💡 À propos de moi
+## 🚀 Mes projets XR
 
-Issue d’un parcours mêlant **numérique, pédagogie et médiation**, je me suis orientée vers le développement informatique avec un intérêt particulier pour les **technologies immersives et les interactions utilisateur**.
+### 🧠 BrainBoostVR — Application de stimulation cognitive en réalité virtuelle
 
-J’ai suivi la formation **Holberton School France**, où j’ai développé mes compétences en **C, Python, JavaScript, React**, ainsi qu’une première expérience en **Unity et VR**.
+**Projet personnel · Unity 6 · C# · XR Interaction Toolkit · ASP.NET Core · Firebase · MySQL**
 
-J’ai également travaillé à l’**INRIA**, ce qui m’a permis de développer mon expérience du travail en équipe, mon adaptabilité et ma capacité à évoluer dans un environnement technique exigeant.
+BrainBoostVR est une application de réalité virtuelle conçue autour d'exercices cognitifs interactifs. Le projet explore les possibilités de la VR pour proposer des expériences immersives mobilisant notamment la mémoire, l'attention et la concentration.
 
-Aujourd’hui, je m’intéresse particulièrement au développement **XR avec Unity et Godot**, à la conception d'interactions immersives et aux projets qui combinent **technologie, créativité et expérience utilisateur**.
+J'ai conçu, développé et testé ce projet individuellement, de l'expérience VR à la gestion des données.
 
----
+**Principales fonctionnalités :**
+- Navigation immersive dans un environnement virtuel.
+- Exercices interactifs basés sur la manipulation d'objets.
+- Retours visuels et sonores en temps réel.
+- Système de score et suivi des sessions.
+- Tutoriel et accompagnement de l'utilisateur.
+- API backend et persistance des données.
 
-## 🚀 Projet XR principal
+🔗 [Découvrir la présentation du projet](https://sweetyamnesia.github.io/brainboostvr-landing/)  
+💻 [Consulter le code source](https://github.com/Sweetyamnesia/BrainBoostVR)
 
-### 🧠 [BrainBoostVR](https://github.com/Sweetyamnesia/BrainBoostVR)
+### 🔄 Data Flow Visualization — Projet VRAC, INRIA
 
-**Unity · C# · XR · ASP.NET Core · Firebase · MySQL · Oculus Quest 2**
+**Expérience professionnelle · Godot 4 · C# · .NET · OpenXR**
 
-Application VR développée comme projet de portfolio autour d’exercices cognitifs immersifs.
+Lors de mon expérience à l'INRIA, j'ai travaillé au sein d'une équipe pluridisciplinaire composée de chercheurs, doctorants et ingénieurs sur l'évolution d'un outil de visualisation de flux de données en réalité augmentée.
 
-Le projet combine :
+À partir d'une application existante, j'ai appris à travailler avec Godot 4 et C#, puis contribué à la création et à l'amélioration d'un système de visualisation interactif et configurable.
 
-* 🥽 interactions XR et environnement VR
-* 🎮 exercices interactifs
-* 📊 scoring et suivi des sessions
-* 🔐 authentification Firebase
-* 🌐 API REST avec ASP.NET Core
-* 🗄️ persistance des données avec MySQL
+**Mes principales contributions :**
+- Conception et développement d'une interface de configuration des flux.
+- Refonte du système de calcul des fréquences, avec gestion de données issues de jeux de données.
+- Ajout de paramètres de contrôle et de modes de fonctionnement.
+- Développement d'une visualisation de type convoyeur et amélioration des interactions.
+- Correction de problèmes techniques et stabilisation des comportements en temps réel.
+- Documentation technique du fonctionnement du système.
 
-👉 **[Voir la présentation du projet](https://sweetyamnesia.github.io/brainboostvr-landing/)**
+Cette expérience m'a permis de découvrir un nouvel environnement de développement, de prendre en main une base de code existante et de contribuer à un projet XR mené en équipe.
 
----
-
-## 📚 Autres projets
-
-### 🐚 [HB Shell](https://github.com/Sweetyamnesia/holbertonschool-shell)
-
-**C · Unix · Algorithms**
-
-Interpréteur de commandes minimal avec gestion des processus, parsing et signaux.
-
-### 🏠 [HBnB](https://github.com/Sweetyamnesia/HBnB)
-
-**Python · MVC · REST API**
-
-Application inspirée d'Airbnb développée autour d'une architecture MVC et d'une API REST.
-
-### ⚛️ [Holberton Web React](https://github.com/Sweetyamnesia/holbertonschool-web_react)
-
-**React · JavaScript · REST API**
-
-Interfaces web utilisant des composants React modulaires et des APIs REST.
+🔗 [Présentation du projet VRAC](https://bivwac.fr/tools/vrac/)  
+💻 [Présentation de mes contributions et éléments techniques](https://github.com/Sweetyamnesia/data-flow-visualization)  
+📂 [Dépôt du projet VRAC sur GitLab – INRIA](https://gitlab.inria.fr/vrac/vrac)
 
 ---
 
-## 💻 Technologies
+## 💻 Compétences techniques
 
-* **Langages :** C, Python, JavaScript, HTML/CSS
-* **XR :** Unity, Godot
-* **Frameworks :** React, ASP.NET Core
-* **Backend :** REST APIs, MySQL, Firebase
-* **Tools :** Git, GitHub, Linux, Postman
+| Domaine | Technologies |
+|---|---|
+| XR et 3D | Unity, Godot, XR Interaction Toolkit, OpenXR |
+| Développement | C#, C, Python, JavaScript |
+| Web | HTML, CSS, React |
+| Backend et API | ASP.NET Core, REST API |
+| Bases de données | MySQL, Firebase |
+| Outils | Git, GitHub, Linux, Docker, Postman |
 
----
-
-## 🌟 Compétences
-
-* Autonomie
-* Curiosité technique
-* Pédagogie
-* Esprit d’équipe
-* Adaptabilité
-* Conception centrée utilisateur
+Je continue à approfondir mes compétences en développement XR, en particulier avec Unity, Godot et C#.
 
 ---
 
-## 📫 Contact
+## 🎓 Formation
 
-[LinkedIn](https://linkedin.com/in/angela-rhin) • [GitHub](https://github.com/Sweetyamnesia)
+- **Holberton School** — Fondamentaux du développement informatique (2026).
+- **Alegria Academy** — No Code et IA Success Program (en cours).
+- **Université Bordeaux Montaigne** — Master Dispositifs numériques éducatifs (2020–2022).
+- **Université de Strasbourg** — Licence de psychologie (2013–2019).
+
+---
+
+## 🤝 Ce qui m'anime
+
+- Concevoir des expériences immersives et interactives.
+- Explorer les usages de la réalité virtuelle et augmentée.
+- Apprendre de nouveaux outils et environnements techniques.
+- Travailler en équipe et croiser les compétences.
+- Développer des applications utiles, notamment pour la formation et la santé.
+
+---
+
+## 📫 Me retrouver
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/angela-rhin/)
+- 🐙 [GitHub](https://github.com/Sweetyamnesia)
+
